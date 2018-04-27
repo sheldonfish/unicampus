@@ -1,5 +1,5 @@
 # Build a website with create-react-app 
-# with custom domain: https://www.unicampus.co.uk
+# Custom domain: https://www.unicampus.co.uk
 
 Original page: https://sheldonfish.github.io/unicampus 
 
